@@ -12,7 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kalash-shah-484290243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalash-shah-484290243" height="30" width="40" /></a>
-<a href="https://huggingface.co/kalashshah19" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/839/288/png-transparent-hugging-face-favicon-logo-tech-companies-thumbnail.png" alt="kalashshah19" height="30" width="40" /></a>
+  
+<a href="https://huggingface.co/kalashshah19" target="blank"><img align="center" src="https://www.intel.com/content/dam/www/central-libraries/us/en/images/2023-11/hugging-face-logo-primary.png" alt="kalashshah19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
