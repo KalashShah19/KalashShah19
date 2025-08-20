@@ -1,17 +1,18 @@
 <h1 align="center">Hey, I'm Kalash Shah</h1>
-<h3 align="center">Future Data Scientist</h3>
+<h3 align="center"> Data Scientist and AI ML Developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalashshah19&label=Profile%20views&color=0e75b6&style=flat" alt="kalashshah19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalashshah19" alt="kalashshah19" /></a> </p>
 
-- 🔭 I’m Data Science Intern at **Casepoint**
+- 🔭 I’m Assoc. Data Sciencist  at **Casepoint**
 
 - 🌱 I’m enthusiastic about **Data Science, Artificial Intelligence and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kalash-shah-484290243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalash-shah-484290243" height="30" width="40" /></a>
+<a href="https://huggingface.co/kalashshah19" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/839/288/png-transparent-hugging-face-favicon-logo-tech-companies-thumbnail.png" alt="kalashshah19" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
